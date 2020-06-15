@@ -1,0 +1,115 @@
+t * {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px;
+MARGIN: 0px; PADDING-TOP: 0px
+}
+TABLE.main {
+	WIDTH: 824px
+}
+BODY {
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	PADDING-BOTTOM: 0px;
+	MARGIN: 0px;
+	FONT: 12px/1.5em Verdana, Arial, sans-serif;
+	COLOR: #000000;
+	PADDING-TOP: 0px;
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none;
+BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px;
+MARGIN: 0px; PADDING-TOP: 0px
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+A {
+	COLOR: #024294; BACKGROUND-COLOR: transparent; TEXT-DECORATION:
+none
+}
+A:hover {
+	COLOR: #000
+}
+#wrap {
+	MARGIN: 0px auto; WIDTH: 770px
+}
+#header {
+	BACKGROUND: #2e4174 no-repeat left top;
+	WIDTH: 824px;
+	HEIGHT: 100px
+}
+#header H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: large; MARGIN: 0px; COLOR: #fff;
+PADDING-TOP: 10px
+}
+#header H1 A {
+	FONT-WEIGHT: 100; COLOR: #fff; TEXT-DECORATION: none
+}
+#header H2 {
+	FONT-WEIGHT: 100;
+	FONT-SIZE: 120%;
+	MARGIN: 0px;
+	COLOR: #FFFFFF
+}
+#menu {
+	PADDING-RIGHT: 2px;
+	PADDING-LEFT: 2px;
+	FONT-SIZE: 14px;
+	BACKGROUND: #eee;
+	PADDING-BOTTOM: 2px;
+	WIDTH: 820px;
+	PADDING-TOP: 2px
+}
+#menu A {
+	FONT-WEIGHT: bold
+}
+#menulink {
+	FONT-WEIGHT: 100; FONT-SIZE: 14px
+}
+#right {
+	PADDING-RIGHT: 10px; MARGIN-TOP: 10px; PADDING-LEFT: 10px;
+BACKGROUND: #fff; FLOAT: right; PADDING-BOTTOM: 10px; VERTICAL-ALIGN:
+top; WIDTH: 600px; PADDING-TOP: 10px
+}
+#right H2 {
+	FONT-WEIGHT: 100; FONT-SIZE: 18px; MARGIN: 5px 0px
+}
+#right H2 A {
+	TEXT-DECORATION: none
+}
+#right UL {
+	PADDING-LEFT: 10px; MARGIN-LEFT: 15px
+}
+#right LI {
+	LIST-STYLE-TYPE: circle
+}
+#left {
+	PADDING-RIGHT: 10px;
+	BORDER-TOP: #cfcfcf 1px solid;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 10px;
+	BACKGROUND: #d5d5e5;
+	PADDING-BOTTOM: 10px;
+	VERTICAL-ALIGN: top;
+	WIDTH: 224px;
+	PADDING-TOP: 10px
+}
+#left H2 {
+	FONT-WEIGHT: 900; FONT-SIZE: 14px; MARGIN: 10px 0px 5px 5px
+}
+#left H3 {
+	FONT-WEIGHT: 900; FONT-SIZE: 11px; MARGIN: 0px 0px 2px 5px
+}
+#left UL {
+	PADDING-LEFT: 10px
+}
+#footer {
+	PADDING-RIGHT: 5px; BORDER-TOP: #a0a0a0 1px solid; MARGIN-TOP:
+5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; WIDTH:
+824px; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+#clear {
+	CLEAR: both
+}
